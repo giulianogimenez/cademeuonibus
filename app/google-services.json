@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "740201237117",
+    "firebase_url": "https://cademeuonibus-99fed.firebaseio.com",
+    "project_id": "cademeuonibus-99fed",
+    "storage_bucket": "cademeuonibus-99fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740201237117:android:11de7768c849c74c",
+        "android_client_info": {
+          "package_name": "br.edu.fatecsjc.ggimenez.mybus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740201237117-nk148n36dbdd7k9ftvbg24up3a6jj2a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.fatecsjc.ggimenez.mybus",
+            "certificate_hash": "59d8e904529b21a1a97ba60863f6316ccf967bb3"
+          }
+        },
+        {
+          "client_id": "740201237117-6deskn198kpdf4cn04dcdvlnvegklglp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHexHUNczZR2xJgALXSLSUOebocPqRu00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740201237117-6deskn198kpdf4cn04dcdvlnvegklglp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740201237117:android:6410d2999f8cac9d",
+        "android_client_info": {
+          "package_name": "br.edu.fatecsjc.ggimenez.cademeuonibus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740201237117-7e59f78o9q84kqekgcmlqfdj0qm5orpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.fatecsjc.ggimenez.cademeuonibus",
+            "certificate_hash": "59d8e904529b21a1a97ba60863f6316ccf967bb3"
+          }
+        },
+        {
+          "client_id": "740201237117-6deskn198kpdf4cn04dcdvlnvegklglp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHexHUNczZR2xJgALXSLSUOebocPqRu00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740201237117-6deskn198kpdf4cn04dcdvlnvegklglp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
